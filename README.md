@@ -2,15 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- created classes must extend either stateless or stateful widget
+- Generic Tyoes
+  - generic types are "flexible types" that "work together" with other types
+    - List<string>
+    - List<double>
+![](../../Desktop/Screenshot 2023-06-27 at 2.22.53 PM.png)
